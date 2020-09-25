@@ -7,7 +7,7 @@ public class Test : MonoBehaviour
 {
     public class Boss
     {
-        private int mp = 3;
+        private int mp = 53;
 
         public void Magic()
         {
